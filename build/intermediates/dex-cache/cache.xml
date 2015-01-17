@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hectorcarrasco/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/hectorcarrasco/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-350f8f89de101c3e5426541ce47416d3f90770d0.jar" />
+    </item>
+    <item
+        jar="/Users/hectorcarrasco/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/hectorcarrasco/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-1e38f960784a71ce2ef72ba2061d089a6a9d4533.jar" />
+    </item>
+    <item
+        jar="/Users/hectorcarrasco/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/hectorcarrasco/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-87e69099271f9c494e7957c2289f04077ab42e89.jar" />
+    </item>
+    <item
+        jar="/Users/hectorcarrasco/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/hectorcarrasco/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-6a1a77c02a329c96550936be0865e30acfe77b11.jar" />
+    </item>
+
+</items>
